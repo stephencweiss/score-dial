@@ -1,3 +1,10 @@
+Very simply, this project takes in a score and returns its value on a variable score dial.
+
+![score dial](https://media.giphy.com/media/h86hmcE5YC7oNtQXMC/giphy.gif)
+
+## Future work
+- [ ] Expose score ranges in api for dynamic ranges (i.e. pass in score ranges and have the dial segments adjust accordingly)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
